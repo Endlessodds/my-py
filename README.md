@@ -1,5 +1,5 @@
 # my-py
-Mini projects that are written in python applying concepts to programming 
+- Mini projects that are written in python applying concepts to programming 
 
 # TBD
 - Number Guessing Game
